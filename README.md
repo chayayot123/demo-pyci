@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/chayayot123/demo-pyci.svg?branch=main)](https://app.travis-ci.com/chayayot123/demo-pyci)
 Continuous Integration Demo
 ============================
 
